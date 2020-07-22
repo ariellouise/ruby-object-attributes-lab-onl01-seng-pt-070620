@@ -1,3 +1,4 @@
-class Dog(name, breed) 
+class Dog
+  def initialize
   
 end 
