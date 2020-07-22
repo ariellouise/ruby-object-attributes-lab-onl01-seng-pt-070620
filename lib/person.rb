@@ -12,4 +12,5 @@ class Person
     @job 
   end 
   
+  def name
 end
