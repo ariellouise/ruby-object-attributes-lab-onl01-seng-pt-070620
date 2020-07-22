@@ -12,5 +12,5 @@ class Person
     @job 
   end 
   
-  def name
+  def name=(person_name)
 end
